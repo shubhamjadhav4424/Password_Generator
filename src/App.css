@@ -1,0 +1,18 @@
+.Yes_NO_button{
+    padding: 5px 20px;
+    background: black;
+    color: white;
+    border-radius: 35px;
+}
+
+.Yes_NO_button_normal{
+    margin-top: 5px;
+}
+
+.select{
+    cursor: pointer;
+}
+
+.option{
+    cursor: pointer;
+}
